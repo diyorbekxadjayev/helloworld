@@ -1,0 +1,21 @@
+.is-size {
+    font-size: 72px;
+}
+
+.has-background-image {
+    background-image: url(../images/Rectangle\ \(25\).png);
+    background-repeat: no-repeat;
+    background-position: 0 100%;
+}
+
+.is-position {
+    position: relative;
+    left: 140px;
+    bottom: 38px;
+}
+
+.has-background-img {
+    background-image: url(../images/Rectangle\ \(31\).png);
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+}
